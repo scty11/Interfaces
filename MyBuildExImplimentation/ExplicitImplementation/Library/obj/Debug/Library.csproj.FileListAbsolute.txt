@@ -1,0 +1,4 @@
+C:\Users\scottyboi\Documents\jquery\code\interfaces\4-csharp-interfaces-m4-explicitimp-exercise-files\MyBuild\ExplicitImplementation\Library\bin\Debug\Library.dll
+C:\Users\scottyboi\Documents\jquery\code\interfaces\4-csharp-interfaces-m4-explicitimp-exercise-files\MyBuild\ExplicitImplementation\Library\bin\Debug\Library.pdb
+C:\Users\scottyboi\Documents\jquery\code\interfaces\4-csharp-interfaces-m4-explicitimp-exercise-files\MyBuild\ExplicitImplementation\Library\obj\Debug\Library.dll
+C:\Users\scottyboi\Documents\jquery\code\interfaces\4-csharp-interfaces-m4-explicitimp-exercise-files\MyBuild\ExplicitImplementation\Library\obj\Debug\Library.pdb

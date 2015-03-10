@@ -1,0 +1,7 @@
+C:\Users\scottyboi\Documents\jquery\code\interfaces\6-csharp-interfaces-m6-advanced-exercise-files\MyBuild\AdvancedInterfaceTopics\PersonRepository.Fake\bin\Debug\PersonRepository.Fake.dll
+C:\Users\scottyboi\Documents\jquery\code\interfaces\6-csharp-interfaces-m6-advanced-exercise-files\MyBuild\AdvancedInterfaceTopics\PersonRepository.Fake\bin\Debug\PersonRepository.Fake.pdb
+C:\Users\scottyboi\Documents\jquery\code\interfaces\6-csharp-interfaces-m6-advanced-exercise-files\MyBuild\AdvancedInterfaceTopics\PersonRepository.Fake\bin\Debug\PersonRepository.Interface.dll
+C:\Users\scottyboi\Documents\jquery\code\interfaces\6-csharp-interfaces-m6-advanced-exercise-files\MyBuild\AdvancedInterfaceTopics\PersonRepository.Fake\bin\Debug\PersonRepository.Interface.pdb
+C:\Users\scottyboi\Documents\jquery\code\interfaces\6-csharp-interfaces-m6-advanced-exercise-files\MyBuild\AdvancedInterfaceTopics\PersonRepository.Fake\obj\Debug\PersonRepository.Fake.csprojResolveAssemblyReference.cache
+C:\Users\scottyboi\Documents\jquery\code\interfaces\6-csharp-interfaces-m6-advanced-exercise-files\MyBuild\AdvancedInterfaceTopics\PersonRepository.Fake\obj\Debug\PersonRepository.Fake.dll
+C:\Users\scottyboi\Documents\jquery\code\interfaces\6-csharp-interfaces-m6-advanced-exercise-files\MyBuild\AdvancedInterfaceTopics\PersonRepository.Fake\obj\Debug\PersonRepository.Fake.pdb

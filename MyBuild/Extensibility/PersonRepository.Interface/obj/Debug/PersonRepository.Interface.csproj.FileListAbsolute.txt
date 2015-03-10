@@ -1,0 +1,5 @@
+C:\Users\scottyboi\Documents\jquery\code\interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\MyBuild\Extensibility\PersonRepository.Interface\bin\Debug\PersonRepository.Interface.dll
+C:\Users\scottyboi\Documents\jquery\code\interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\MyBuild\Extensibility\PersonRepository.Interface\bin\Debug\PersonRepository.Interface.pdb
+C:\Users\scottyboi\Documents\jquery\code\interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\MyBuild\Extensibility\PersonRepository.Interface\obj\Debug\PersonRepository.Interface.csprojResolveAssemblyReference.cache
+C:\Users\scottyboi\Documents\jquery\code\interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\MyBuild\Extensibility\PersonRepository.Interface\obj\Debug\PersonRepository.Interface.dll
+C:\Users\scottyboi\Documents\jquery\code\interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\MyBuild\Extensibility\PersonRepository.Interface\obj\Debug\PersonRepository.Interface.pdb

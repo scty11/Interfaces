@@ -1,0 +1,5 @@
+C:\Users\scottyboi\Documents\jquery\code\interfaces\5-csharp-interfaces-m5-dynamic-exercise-files\MyBuild\DynamicLoading\PersonRepository.Interface\bin\Debug\PersonRepository.Interface.dll
+C:\Users\scottyboi\Documents\jquery\code\interfaces\5-csharp-interfaces-m5-dynamic-exercise-files\MyBuild\DynamicLoading\PersonRepository.Interface\bin\Debug\PersonRepository.Interface.pdb
+C:\Users\scottyboi\Documents\jquery\code\interfaces\5-csharp-interfaces-m5-dynamic-exercise-files\MyBuild\DynamicLoading\PersonRepository.Interface\obj\Debug\PersonRepository.Interface.csprojResolveAssemblyReference.cache
+C:\Users\scottyboi\Documents\jquery\code\interfaces\5-csharp-interfaces-m5-dynamic-exercise-files\MyBuild\DynamicLoading\PersonRepository.Interface\obj\Debug\PersonRepository.Interface.dll
+C:\Users\scottyboi\Documents\jquery\code\interfaces\5-csharp-interfaces-m5-dynamic-exercise-files\MyBuild\DynamicLoading\PersonRepository.Interface\obj\Debug\PersonRepository.Interface.pdb

@@ -1,0 +1,8 @@
+C:\Users\scottyboi\Documents\jquery\code\interfaces\5-csharp-interfaces-m5-dynamic-exercise-files\MyBuild\DynamicLoading\People.Service\bin\People.Service.dll.config
+C:\Users\scottyboi\Documents\jquery\code\interfaces\5-csharp-interfaces-m5-dynamic-exercise-files\MyBuild\DynamicLoading\People.Service\bin\People.Service.dll
+C:\Users\scottyboi\Documents\jquery\code\interfaces\5-csharp-interfaces-m5-dynamic-exercise-files\MyBuild\DynamicLoading\People.Service\bin\People.Service.pdb
+C:\Users\scottyboi\Documents\jquery\code\interfaces\5-csharp-interfaces-m5-dynamic-exercise-files\MyBuild\DynamicLoading\People.Service\bin\PersonRepository.Interface.dll
+C:\Users\scottyboi\Documents\jquery\code\interfaces\5-csharp-interfaces-m5-dynamic-exercise-files\MyBuild\DynamicLoading\People.Service\bin\PersonRepository.Interface.pdb
+C:\Users\scottyboi\Documents\jquery\code\interfaces\5-csharp-interfaces-m5-dynamic-exercise-files\MyBuild\DynamicLoading\People.Service\obj\Debug\People.Service.csprojResolveAssemblyReference.cache
+C:\Users\scottyboi\Documents\jquery\code\interfaces\5-csharp-interfaces-m5-dynamic-exercise-files\MyBuild\DynamicLoading\People.Service\obj\Debug\People.Service.dll
+C:\Users\scottyboi\Documents\jquery\code\interfaces\5-csharp-interfaces-m5-dynamic-exercise-files\MyBuild\DynamicLoading\People.Service\obj\Debug\People.Service.pdb

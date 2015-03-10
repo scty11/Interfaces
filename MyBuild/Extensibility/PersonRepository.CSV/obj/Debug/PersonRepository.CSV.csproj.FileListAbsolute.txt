@@ -1,0 +1,7 @@
+C:\Users\scottyboi\Documents\jquery\code\interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\MyBuild\Extensibility\PersonRepository.CSV\bin\Debug\PersonRepository.CSV.dll
+C:\Users\scottyboi\Documents\jquery\code\interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\MyBuild\Extensibility\PersonRepository.CSV\bin\Debug\PersonRepository.CSV.pdb
+C:\Users\scottyboi\Documents\jquery\code\interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\MyBuild\Extensibility\PersonRepository.CSV\bin\Debug\PersonRepository.Interface.dll
+C:\Users\scottyboi\Documents\jquery\code\interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\MyBuild\Extensibility\PersonRepository.CSV\bin\Debug\PersonRepository.Interface.pdb
+C:\Users\scottyboi\Documents\jquery\code\interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\MyBuild\Extensibility\PersonRepository.CSV\obj\Debug\PersonRepository.CSV.csprojResolveAssemblyReference.cache
+C:\Users\scottyboi\Documents\jquery\code\interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\MyBuild\Extensibility\PersonRepository.CSV\obj\Debug\PersonRepository.CSV.dll
+C:\Users\scottyboi\Documents\jquery\code\interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\MyBuild\Extensibility\PersonRepository.CSV\obj\Debug\PersonRepository.CSV.pdb

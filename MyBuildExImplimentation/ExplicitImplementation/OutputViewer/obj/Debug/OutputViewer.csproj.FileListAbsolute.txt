@@ -1,0 +1,8 @@
+C:\Users\scottyboi\Documents\jquery\code\interfaces\4-csharp-interfaces-m4-explicitimp-exercise-files\MyBuild\ExplicitImplementation\OutputViewer\bin\Debug\StandardImplementation.exe.config
+C:\Users\scottyboi\Documents\jquery\code\interfaces\4-csharp-interfaces-m4-explicitimp-exercise-files\MyBuild\ExplicitImplementation\OutputViewer\bin\Debug\StandardImplementation.exe
+C:\Users\scottyboi\Documents\jquery\code\interfaces\4-csharp-interfaces-m4-explicitimp-exercise-files\MyBuild\ExplicitImplementation\OutputViewer\bin\Debug\StandardImplementation.pdb
+C:\Users\scottyboi\Documents\jquery\code\interfaces\4-csharp-interfaces-m4-explicitimp-exercise-files\MyBuild\ExplicitImplementation\OutputViewer\bin\Debug\Library.dll
+C:\Users\scottyboi\Documents\jquery\code\interfaces\4-csharp-interfaces-m4-explicitimp-exercise-files\MyBuild\ExplicitImplementation\OutputViewer\bin\Debug\Library.pdb
+C:\Users\scottyboi\Documents\jquery\code\interfaces\4-csharp-interfaces-m4-explicitimp-exercise-files\MyBuild\ExplicitImplementation\OutputViewer\obj\Debug\OutputViewer.csprojResolveAssemblyReference.cache
+C:\Users\scottyboi\Documents\jquery\code\interfaces\4-csharp-interfaces-m4-explicitimp-exercise-files\MyBuild\ExplicitImplementation\OutputViewer\obj\Debug\StandardImplementation.exe
+C:\Users\scottyboi\Documents\jquery\code\interfaces\4-csharp-interfaces-m4-explicitimp-exercise-files\MyBuild\ExplicitImplementation\OutputViewer\obj\Debug\StandardImplementation.pdb

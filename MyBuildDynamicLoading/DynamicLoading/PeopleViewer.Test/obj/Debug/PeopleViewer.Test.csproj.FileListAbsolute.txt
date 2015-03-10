@@ -1,0 +1,12 @@
+C:\Users\scottyboi\Documents\jquery\code\interfaces\5-csharp-interfaces-m5-dynamic-exercise-files\MyBuild\DynamicLoading\PeopleViewer.Test\bin\Debug\PeopleViewer.Test.dll.config
+C:\Users\scottyboi\Documents\jquery\code\interfaces\5-csharp-interfaces-m5-dynamic-exercise-files\MyBuild\DynamicLoading\PeopleViewer.Test\bin\Debug\PeopleViewer.Test.dll
+C:\Users\scottyboi\Documents\jquery\code\interfaces\5-csharp-interfaces-m5-dynamic-exercise-files\MyBuild\DynamicLoading\PeopleViewer.Test\bin\Debug\PeopleViewer.Test.pdb
+C:\Users\scottyboi\Documents\jquery\code\interfaces\5-csharp-interfaces-m5-dynamic-exercise-files\MyBuild\DynamicLoading\PeopleViewer.Test\bin\Debug\PeopleViewer.exe
+C:\Users\scottyboi\Documents\jquery\code\interfaces\5-csharp-interfaces-m5-dynamic-exercise-files\MyBuild\DynamicLoading\PeopleViewer.Test\bin\Debug\PersonRepository.Interface.dll
+C:\Users\scottyboi\Documents\jquery\code\interfaces\5-csharp-interfaces-m5-dynamic-exercise-files\MyBuild\DynamicLoading\PeopleViewer.Test\bin\Debug\PeopleViewer.pdb
+C:\Users\scottyboi\Documents\jquery\code\interfaces\5-csharp-interfaces-m5-dynamic-exercise-files\MyBuild\DynamicLoading\PeopleViewer.Test\bin\Debug\PersonRepository.Interface.pdb
+C:\Users\scottyboi\Documents\jquery\code\interfaces\5-csharp-interfaces-m5-dynamic-exercise-files\MyBuild\DynamicLoading\PeopleViewer.Test\obj\Debug\PeopleViewer.Test.csprojResolveAssemblyReference.cache
+C:\Users\scottyboi\Documents\jquery\code\interfaces\5-csharp-interfaces-m5-dynamic-exercise-files\MyBuild\DynamicLoading\PeopleViewer.Test\obj\Debug\PeopleViewer.Test.dll
+C:\Users\scottyboi\Documents\jquery\code\interfaces\5-csharp-interfaces-m5-dynamic-exercise-files\MyBuild\DynamicLoading\PeopleViewer.Test\obj\Debug\PeopleViewer.Test.pdb
+C:\Users\scottyboi\Documents\jquery\code\interfaces\5-csharp-interfaces-m5-dynamic-exercise-files\MyBuild\DynamicLoading\PeopleViewer.Test\bin\Debug\PersonRepository.Fake.dll
+C:\Users\scottyboi\Documents\jquery\code\interfaces\5-csharp-interfaces-m5-dynamic-exercise-files\MyBuild\DynamicLoading\PeopleViewer.Test\bin\Debug\PersonRepository.Fake.pdb
